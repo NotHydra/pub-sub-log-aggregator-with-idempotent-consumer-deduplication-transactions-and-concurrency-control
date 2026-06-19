@@ -118,7 +118,7 @@ Interpretasinya: event lama tetap tersimpan dan publish ulang setelah recreate d
 
 ## Video Demo
 
-Link video: `TODO: isi dengan link YouTube unlisted/public`.
+Link video: https://youtu.be/DUxejspBjjU
 
 Checklist video:
 

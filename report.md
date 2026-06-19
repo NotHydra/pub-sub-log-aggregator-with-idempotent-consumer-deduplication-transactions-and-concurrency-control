@@ -79,7 +79,7 @@ Uji persistensi juga dijalankan pada `2026-06-19` menggunakan event sentinel `("
 
 ## Link Video
 
-TODO: isi link YouTube unlisted/public setelah rekaman demo.
+https://youtu.be/DUxejspBjjU
 
 ## Daftar Pustaka
 
