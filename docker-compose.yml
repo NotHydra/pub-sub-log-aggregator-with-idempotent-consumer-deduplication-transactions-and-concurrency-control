@@ -1,7 +1,7 @@
 services:
   aggregator:
     build: ./aggregator
-    image: uts-aggregator:latest
+    image: uas-aggregator:latest
     depends_on:
       storage:
         condition: service_healthy
@@ -16,7 +16,7 @@ services:
 
   publisher:
     build: ./publisher
-    image: uts-publisher:latest
+    image: uas-publisher:latest
     depends_on:
       - aggregator
     environment:
